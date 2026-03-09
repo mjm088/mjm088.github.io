@@ -6,6 +6,6 @@ Hey, I'm Micah and I'm a Computer Science student at SNHU online. The journey of
 | Artifact Category | Link to Artifact |
 |-----:|---------------|
 |     Software Engineering and Design| [View Artifact](https://github.com/mjm088/cs465-fullstack/tree/module7)|
-|     Algorithms and Data Structures|[View Artifact](https://github.com/mjm088/C-Plus-Plus/blob/main/Bank.cpp)|
+|     Algorithms and Data Structures|[View Artifact](https://github.com/mjm088/Software-Test/blob/main/Contact.java)|
 |     Databases|[View Artifact](https://github.com/mjm088/cs465-fullstack/tree/module7)|
 
