@@ -1,5 +1,5 @@
 # mjm088.github.io
-The purpose of this ePortfolio is to demonstrate skills I have learned throughout the various Computer Science courses I have taken.
+The purpose of this ePortfolio is to demonstrate some of the skills I have learned throughout the journey of obtaining my B.S. in Computer Science.
 
 ## Professional Self-Assessment
 
@@ -14,7 +14,7 @@ This video provides an overview review of my three original articats, covering:
 
 ## Artifacts, Enhancements, and Narratives
 
-| Artifact | Original | Enhanced | Narrative |
+| Artifact Category | Original | Enhanced | Narrative |
 |--------|----------|----------|-----------|
 | Software Engineering and Design | [View](link) | [View](link) | [Read](link) |
 | Algorithms and Data Structures | [View](link) | [View](link) | [Read](link) |
