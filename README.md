@@ -5,7 +5,7 @@ The purpose of this ePortfolio is to demonstrate some of the skills I have learn
 
 ## Code Review
 
-This video provides an overview review of my three original articats, covering:
+This video provides an overview of my three original articats, covering:
 - Existing Functionality
 - Code Analysis
 - Ehnancement
