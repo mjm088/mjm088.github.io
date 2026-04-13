@@ -1,7 +1,19 @@
 # mjm088.github.io
+Micah McClure
+Computer Science Portfolio  
+Focus: Software Development, Systems Analysis, and Code Optimization
 
-## About me
-Hey, I'm Micah and I'm a Computer Science student at SNHU online. The journey of obtaining my B.S. is coming to an end, and I want to represent some of the skills I have picked up along the way with this portfolio. Below are the three artifacts I have chosen to help represent my skills I have learned.
+[Self‑Assessment](#self-assessment) • [Code Review](#code-review) • [Artifacts](#artifacts)
+
+## Code Review
+
+This video provides a critical review of one of my original artifacts, focusing on:
+- Code structure
+- Efficiency
+- Maintainability
+- Opportunities for improvement
+
+▶️ [Watch the Code Review on YouTube](https://youtube.com/...)
 
 | Artifact Category | Link to Artifact |
 |-----:|---------------|
@@ -9,3 +21,10 @@ Hey, I'm Micah and I'm a Computer Science student at SNHU online. The journey of
 |     Algorithms and Data Structures|[View Artifact](https://github.com/mjm088/Software-Test/blob/main/Contact.java)|
 |     Databases|[View Artifact](https://github.com/mjm088/cs465-fullstack/tree/module7)|
 
+## Artifacts and Enhancements
+
+| Artifact | Original | Enhanced | Narrative |
+|--------|----------|----------|-----------|
+| Software Engineering and Design | [View](link) | [View](link) | [Read](link) |
+| Algorithms and Data Structures | [View](link) | [View](link) | [Read](link) |
+| Databases | [View](link) | [View](link) | [Read](link) |
