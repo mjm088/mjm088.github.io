@@ -2,6 +2,7 @@
 The purpose of this ePortfolio is to demonstrate some of the skills I have learned throughout the journey of obtaining my B.S. in Computer Science.
 
 ## Professional Self-Assessment
+[Link to Self-Assessment](https://github.com/mjm088/mjm088.github.io/blob/main/professional_assessment/Professional%20Assessment.pdf)
 
 ## Code Review
 
