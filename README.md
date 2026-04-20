@@ -17,6 +17,6 @@ This video provides an overview of my three original articats, covering:
 
 | Artifact Category | Original | Enhanced | Narrative |
 |--------|----------|----------|-----------|
-| Software Engineering and Design | [View](link) | [View](link) | [Read](link) |
+| Software Engineering and Design | [View](https://github.com/mjm088/cs465-fullstack/tree/module7/app_admin) | [View](link) | [Read](link) |
 | Algorithms and Data Structures | [View](link) | [View](link) | [Read](link) |
-| Databases | [View](link) | [View](link) | [Read](link) |
+| Databases | [View](https://github.com/mjm088/cs465-fullstack/tree/module7/app_admin) | [View](link) | [Read](link) |
