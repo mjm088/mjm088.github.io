@@ -11,12 +11,12 @@ This video provides an overview of my three original articats, covering:
 - Code Analysis
 - Ehnancement
 
-[Link to Code Review](https://youtube.com/...)
+[Link to Code Review](https://youtu.be/eXj6-5mmZm0)
 
 ## Artifacts, Enhancements, and Narratives
 
 | Artifact Category | Original | Enhanced | Narrative |
 |--------|----------|----------|-----------|
-| Software Engineering and Design | [View](https://github.com/mjm088/cs465-fullstack/tree/module7/app_admin) | [View](link) | [Read](link) |
+| Software Engineering and Design | [View](https://github.com/mjm088/cs465-fullstack/tree/module7) | [View](https://github.com/mjm088/cs465-fullstack/tree/travlr_enhancement) | [Read](link) |
 | Algorithms and Data Structures | [View](link) | [View](link) | [Read](link) |
-| Databases | [View](https://github.com/mjm088/cs465-fullstack/tree/module7/app_admin) | [View](link) | [Read](link) |
+| Databases | [View](https://github.com/mjm088/cs465-fullstack/tree/module7) | [View](https://github.com/mjm088/cs465-fullstack/tree/travlr_enhancement) | [Read](link) |
