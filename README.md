@@ -18,5 +18,5 @@ This video provides an overview of my three original articats, covering:
 | Artifact Category | Original | Enhanced | Narrative |
 |--------|----------|----------|-----------|
 | Software Engineering and Design | [View](https://github.com/mjm088/cs465-fullstack/tree/module7) | [View](https://github.com/mjm088/cs465-fullstack/tree/travlr_enhancement) | [Read](link) |
-| Algorithms and Data Structures | [View](link) | [View](link) | [Read](link) |
+| Algorithms and Data Structures | [View](https://mjm088.github.io/artifacts/algorithms_and_data_structure/original) | [View](https://mjm088.github.io/artifacts/algorithms_and_data_structure/enhancement) | [Read](link) |
 | Databases | [View](https://github.com/mjm088/cs465-fullstack/tree/module7) | [View](https://github.com/mjm088/cs465-fullstack/tree/travlr_enhancement) | [Read](link) |
