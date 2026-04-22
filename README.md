@@ -17,6 +17,6 @@ This video provides an overview of my three original articats, covering:
 
 | Artifact Category | Original | Enhanced | Narrative |
 |--------|----------|----------|-----------|
-| Software Engineering and Design | [View](https://github.com/mjm088/cs465-fullstack/tree/module7) | [View](https://github.com/mjm088/cs465-fullstack/tree/travlr_enhancement) | [Read](link) |
-| Algorithms and Data Structures | [View](https://github.com/mjm088/mjm088.github.io/tree/main/artifacts/algorithms_and_data_structure/original) | [View](https://github.com/mjm088/mjm088.github.io/tree/main/artifacts/algorithms_and_data_structure/enhancement) | [Read](link) |
-| Databases | [View](https://github.com/mjm088/cs465-fullstack/tree/module7) | [View](https://github.com/mjm088/cs465-fullstack/tree/travlr_enhancement) | [Read](link) |
+| Software Engineering and Design | [View](https://github.com/mjm088/cs465-fullstack/tree/module7) | [View](https://github.com/mjm088/cs465-fullstack/tree/travlr_enhancement) | [Read](https://mjm088.github.io/artifacts/software_design_and_engineering/narrative/Software%20Engineering_Design%20Narrative.pdf) |
+| Algorithms and Data Structures | [View](https://github.com/mjm088/mjm088.github.io/tree/main/artifacts/algorithms_and_data_structure/original) | [View](https://github.com/mjm088/mjm088.github.io/tree/main/artifacts/algorithms_and_data_structure/enhancement) | [Read](https://mjm088.github.io/artifacts/algorithms_and_data_structure/narrative/Algorithms_and_Data_Structures_Narrative.pdf) |
+| Databases | [View](https://github.com/mjm088/cs465-fullstack/tree/module7) | [View](https://github.com/mjm088/cs465-fullstack/tree/travlr_enhancement) | [Read](https://mjm088.github.io/artifacts/databases/narrative/Databases%20Narrative.pdf) |
